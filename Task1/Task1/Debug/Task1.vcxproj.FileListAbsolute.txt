@@ -1,0 +1,3 @@
+E:\Repository\VS\INDZ\Task1\Task1\Debug\Task1.vcxprojAssemblyReference.cache
+E:\Repository\VS\INDZ\Task1\Task1\Debug\Task1.MyForm.resources
+E:\Repository\VS\INDZ\Task1\Task1\Debug\Task1.vcxproj.GenerateResource.cache

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Repository\VS\INDZ\Task2\1\1\Source.cpp(9,18): warning C4305: инициализация: усечение из "double" в "float"
+  1.vcxproj -> E:\Repository\VS\INDZ\Task2\1\Debug\1.exe

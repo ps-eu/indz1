@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+E:\Repository\VS\INDZ\Task3\Task3\MyForm.h(159,27): warning C4101: e: неиспользованная локальная переменная
+E:\Repository\VS\INDZ\Task3\Task3\MyForm.h(164,27): warning C4101: e: неиспользованная локальная переменная
+E:\Repository\VS\INDZ\Task3\Task3\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Task3.vcxproj -> E:\Repository\VS\INDZ\Task3\Debug\Task3.exe

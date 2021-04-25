@@ -1,0 +1,18 @@
+﻿  MyForm.cpp
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(464,35): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(464,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(532,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(533,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(534,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(541,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(546,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(551,54): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(558,27): warning C4101: e: неиспользованная локальная переменная
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(597,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(597,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(572,27): warning C4101: e: неиспользованная локальная переменная
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(578,27): warning C4101: e: неиспользованная локальная переменная
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.h(605,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\Repository\VS\INDZ\Task4\Task4\MyForm.cpp(7,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Task4.vcxproj -> E:\Repository\VS\INDZ\Task4\Debug\Task4.exe

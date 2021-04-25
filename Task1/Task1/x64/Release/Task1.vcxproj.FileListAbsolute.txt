@@ -1,0 +1,2 @@
+E:\Repository\VS\INDZ\Task1\Task1\x64\Release\Task1.MyForm.resources
+E:\Repository\VS\INDZ\Task1\Task1\x64\Release\Task1.vcxproj.GenerateResource.cache
